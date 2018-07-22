@@ -10,7 +10,9 @@
     <TextView
         android:layout_margin="8dp"
         android:padding="8dp"
-        android:text="Hello World!"
+        android:text="Good Morning !!!!!!"
+        android:textColor="@color/redFront"
+        android:textSize="24dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
          />
@@ -27,7 +29,7 @@
         style="@style/BluTest"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Alarminig!" />
+        android:text="Alarm !  Alarm!" />
 
     <TextView
         style="@style/BluTest"
@@ -39,5 +41,5 @@
         style="@style/BluTest"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Good Morning!" />
+        android:text="" />
 </LinearLayout>
